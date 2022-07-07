@@ -18,7 +18,7 @@ public class GitRacer {
 	
 	static void teamMember2()
 	{
-		System.out.println("ToDo");
+		System.out.println("Hallo hier ist nicht Maurice");
 	}
 	
 	static void teamMember3()
